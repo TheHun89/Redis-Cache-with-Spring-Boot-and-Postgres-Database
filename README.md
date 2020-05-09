@@ -1,5 +1,6 @@
 Description:
 I used Postgres database which you need to download [Download Postgresapp](https://postgresapp.com/ ).  
+Password is password.
 
 It should be accessible via Applications on Mac.  Run the Postgres Admin.  You can use the below scripts:
 Note - When creating the Postgres server - the default user is your **system user name.**
